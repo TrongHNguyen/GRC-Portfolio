@@ -10,6 +10,26 @@ This GRC portfolio is based on MY EXPERIENCE working as an IT Support Officer wi
 
 ## Model 
 
-1 area 
-7 regional principles
-20 schools under 1 regional principles
+1 area, 7 regional principles, 20 schools under 1 regional principles
+
+- Student records and personal information
+
+- Staff HR records
+
+- Learning management systems (LMS)
+
+- Email and collaboration platforms
+
+- Network and identity management systems
+
+## Threat Environment (Assumed):
+
+Phishing and credential theft targeting staff
+
+Ransomware impacting school operations
+
+Data privacy breaches involving student data
+
+Inconsistent security practices across schools
+
+The scope of this portfolio what ive seen in terms of GRC activites in my role. 
